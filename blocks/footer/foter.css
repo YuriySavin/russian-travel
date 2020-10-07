@@ -3,7 +3,7 @@
     max-width: 1184px;
     box-sizing: border-box;
     display:flex;
-    flex-direction: row; 
+    flex-direction: row;
     justify-content: space-between;
 }
 
@@ -24,7 +24,7 @@
 @media screen and (min-width: 320px) and (max-width: 767px){
     .footer{
         margin-top:64px;
-        flex-direction: column; 
+        flex-direction: column;
         justify-content: space-between;
     }       
 }
