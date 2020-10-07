@@ -8,3 +8,5 @@
 *от 320 до 767 пикселей.
 
 В разработке использовались технологии html и css.
+
+https://yuriysavin.github.io/russian-travel/index.html
