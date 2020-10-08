@@ -1,11 +1,13 @@
 .lead{
-    margin:56px 148px 0;
+    max-width: 984px;
+    margin:56px auto 0;
     box-sizing: border-box;
 } 
 
 @media screen and (min-width: 1024px) and (max-width: 1279px){
     .lead{
-        margin:48px 48px 0;
+        max-width: 928px;
+        margin:48px auto 0;
     } 
 }
 
